@@ -15,7 +15,7 @@ The system is hosted on VM1 (10.2.13.12) and includes the following components:
 
 ## Database:
 
-1. MongoDB: Stores user credentials and role-based access control data for secure authentication and authorization.
+MongoDB: Stores user credentials and role-based access control data for secure authentication and authorization.
 
 ## Backend:
 
